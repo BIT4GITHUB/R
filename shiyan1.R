@@ -1,0 +1,1 @@
+choose(n,k) #this function means calculate ×éºÏÊý C(n,k);
